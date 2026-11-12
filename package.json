@@ -21,8 +21,7 @@
     "multer": "^1.4.5-lts.1",
     "node-cache": "^5.1.2",
     "pino": "^8.14.0",
-    "qrcode": "latest",
-    "set-interval-async": "^3.0.3"
+    "qrcode": "latest"
   },
   "devDependencies": {}
 }
